@@ -7,3 +7,7 @@ print("Addition of two numbers are : ",a+b)
 c=7
 d=7
 print("Multiplication of two numbers : ",c*d)
+
+g=5
+h=5
+print("Subtration of two numbers : ",g-h)
