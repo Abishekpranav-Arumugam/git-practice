@@ -13,8 +13,5 @@ print("Subtration of two numbers : ",g-h)
 e=16
 f=4
 print("Division of two numbers : ",e/f)
-<<<<<<< HEAD
+
 print("Feature-4 is commited.")
-=======
-print("Feature-1 branch is executed.")
->>>>>>> feature1
